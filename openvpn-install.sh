@@ -764,6 +764,7 @@ function installOpenVPN() {
 	fi
 
 	echo "dev tun
+duplicate-cn
 user nobody
 group $NOGROUP
 persist-key
